@@ -1,4 +1,4 @@
-### YO, What's up
+### Yo, what's up
 
 <!--
 **EW0824/EW0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
