@@ -1,5 +1,14 @@
 ### Yo
 
+
+[![Skills](https://skillicons.dev/icons?i=js,py,c,cpp,pytorch,opencv,react,nodejs,aws,mongodb,docker,git,cmake,redux,html,css,linux,ros,swift,emacs,figma,unity,latex,bash&perline=8)](https://github.com/EW0824)
+
+<!--
+[![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=EW0824)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+
 <!--
 **EW0824/EW0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
