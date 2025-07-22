@@ -1,7 +1,11 @@
 # Welcome
 
+<!--
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,pytorch,tensorflow,jax,cuda,opencv,js,nodejs,react,mongodb,docker,git,cmake,redux,aws,linux,ros,swift,emacs,unity,latex,bash&perline=8)
+-->
 
-[![Skills](https://skillicons.dev/icons?i=py,c,cpp,pytorch,opencv,react,js,nodejs,mongodb,aws,docker,git,cmake,redux,html,css,linux,ros,swift,emacs,figma,unity,latex,bash&perline=8)](https://github.com/EW0824)
+
+[![Skills](https://skillicons.dev/icons?i=py,c,cpp,pytorch,tensorflow,opencv,react,js,aws,docker,nodejs,mongodb,cmake,redux,html,css,linux,ros,swift,emacs,git,unity,bash,apple&perline=8)](https://github.com/EW0824)
 
 <!--
 [![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=EW0824)](https://github.com/anuraghazra/github-readme-stats)
